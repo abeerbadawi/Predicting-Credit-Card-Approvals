@@ -1,4 +1,4 @@
-# Predicting-Credit-Card-Approvals
+# Predicting-Credit-Card-Approvals (DataCamp Project)
 
 ![credit_card](https://user-images.githubusercontent.com/36461648/117840085-d58bd580-b249-11eb-98f7-c9482fdc988a.jpg)
 
